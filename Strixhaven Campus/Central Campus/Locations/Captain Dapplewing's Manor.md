@@ -1,0 +1,7 @@
+Tucked at the end of a leafy path on the central campus, Captain Dapplewing’s Manor is a quiet relaxation spot for elite faculty as well as a place of academic meditation and counseling for their students. The manor dates to the earliest days of Strixhaven, when the owlin mage and military veteran Captain Raymous Dapplewing held faculty appointments in both Lorchold and Silverquill Colleges. Wanting a quiet place to retire in the evenings—and to host lavish dinner-parties-turned-colloquiums—the professor used his significant military pension to build this manor house on campus. 
+
+Upon his death, Captain Dapplewing bequeathed the manor to the university, which honored his legacy by giving the house his name and keeping most of its original furnishings in pristine condition. The house’s upper-floor libraries were converted into offices for esteemed dual-college faculty members, and those faculty members meet here with students on academic matters during the day. In the evenings, the manor is the site of dinner parties and elegant cocktail hours for those faculty members, their most promising students, and visiting alumni. 
+
+Since no one permanently lives in Captain Dapplewing’s Manor, the building is closed and locked from 10:00 p.m. until 6:00 a.m. Because it holds many valuable antiques and volumes of sensitive research, security measures are in place in the manor.
+
+#location 

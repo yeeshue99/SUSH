@@ -1,0 +1,1 @@
+Southwest of the central campus, the Prismari campus—shown on map 1.3—is situated in a region of jagged rocks, rugged spires, and intense geothermal activity.

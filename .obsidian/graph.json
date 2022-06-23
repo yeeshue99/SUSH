@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "-path:Items",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Strixhaven Campus/Extracurriculars/Campus Extracurriculars\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Strixhaven Campus/Extracurriculars/Campus Jobs\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#faculty",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#location",
+      "color": {
+        "a": 1,
+        "rgb": 7814665
+      }
+    },
+    {
+      "query": "tag:#college",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#student",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.99943820224719,
+  "collapse-forces": false,
+  "centerStrength": 0.495726495726496,
+  "repelStrength": 10.0854700854701,
+  "linkStrength": 0.931623931623932,
+  "linkDistance": 30,
+  "scale": 0.5087618855792619,
+  "close": false
+}

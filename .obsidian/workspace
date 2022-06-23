@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "0145395aabb352a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2791d477d0d59f20",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Strixhaven Campus/Students/_All Students_.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85937d003be6169b",
+    "type": "split",
+    "children": [
+      {
+        "id": "20e1ef350a24c51f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ba03056abbc3718",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "699bb6ebe7ce71c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "multiverse",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219
+  },
+  "right": {
+    "id": "c814a5a6f1a3f542",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2791d477d0d59f20",
+  "lastOpenFiles": [
+    "Strixhaven Campus/Students/_All Students_.md",
+    "Items/Spell Scroll (Ist-Level Spell).md",
+    "Strixhaven Campus/Strixhaven Campus.md",
+    "SUSH.md",
+    "Strixhaven Campus/Exams/Exams.md",
+    "Strixhaven Campus/Class Roster/Fourth Year Classes.md",
+    "Strixhaven Campus/Class Roster/Third Year Classes.md",
+    "Strixhaven Campus/Class Roster/Second Year Classes.md",
+    "Strixhaven Campus/Class Roster/Class Rosters.md",
+    "Strixhaven Campus/Class Roster/First Year Classes.md"
+  ]
+}

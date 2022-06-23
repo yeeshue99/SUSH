@@ -1,0 +1,3 @@
+Withcrbloom’s campus—shown on map 1.6—is tucked away in a wide bayou to the southeast of Strixhaven’s central campus. Despite its location on the outer grounds of Witherbloom College’s campus, Wiltroot Hall is normally a safe locale. But the activities of Murgaxor and his mage hunter servitors have drawn lurking dangers from more remote parts of the bayou. 
+
+As he grows more proficient in his ability to siphon creatures’ energy to power his magic. Murgaxor practices lesser forms of magic. The strange energy of his magic has drawn creatures to the area around Wiltroot Hall and made them unusually aggressive. Professor Sharpbeak’s stray mascots have also been drawn to the area, though they are no more aggressive than usual.
