@@ -1,0 +1,4 @@
+**Associated Skills: Acrobatics, Athletics, Performance**
+Member: [[Cadoras Damellawar]], [[Nora Ann Wu]]
+
+Despite being a Prismari professor of expression, [[Ignaria Iggy Kahafi|Iggy]] sponsors this group of artists which contains many students from the perfection side of the Prismari divide as well as other talents from the other colleges. This club is a favorite of artists from a variety of mediums. Dancers, painters, sculptors, essayists, and more hone their skills and critique others in this group. Each student spends most sessions practicing with others in their fields and many of them tend to submit a work for peer review each trimester.

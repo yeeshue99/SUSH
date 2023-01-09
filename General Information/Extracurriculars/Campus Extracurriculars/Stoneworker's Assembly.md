@@ -1,0 +1,3 @@
+**Associated Rolls: History, Mason's Tools, Performance**
+
+Despite being a Lorehold professor of order, [[Hofri Ghostforge|Professor Hofri Ghostforge]] still finds joy and fulfillment in working with stone. The club he sponsors is mostly populated by Lorehold and Prismari students who also enjoy working with stone as a medium for either historic or artistic expression. Hofri's club hosts an art exhibit annually to show off their hard work.

@@ -1,0 +1,4 @@
+**Associated Skills: History, Insight, Perception** 
+Member: [[Drazhomir Yarnask]], [[Quentillius A. Melentor III]]
+
+This club is essentially the same as described in the published content but with a few minor changes. [[Xyla Langnig|Professor Xyla Langning]] sponsors this club and attends meetings regularly to get a chance to interact with students who might speak rare or dead tongues. I've changed the associated skills as Athletics did not make sense in this club. I've added insight and perception as students gain insight into the grammar of past languages and attempt to sound out different words properly. Students might work on translations during the club and then present their work at the end of the year in front of their peers.

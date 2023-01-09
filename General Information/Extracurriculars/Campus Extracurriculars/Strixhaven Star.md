@@ -1,0 +1,4 @@
+**Associated Skills: Insight, Intimidation, Investigation**
+Member: [[Grayson Wildemere]], [[Mina Lee]]
+
+As a school, Strixhaven is full of drama. It's up to the student journalists behind the Strixhaven Star to find that drama and make it public. Students in this club are expected to always keep an ear out for a scoop during and between classes and come together during the evenings for writing and editing purposes. [[Breena, the Demagogue|Professor Breena]] serves as the paper's editor, making sure the comments used by the paper are as alarming and scathing as possible. This club does not have "special" weekend events but meets occasionally on the weekend in the case of breaking news and to supervise the printing and distribution of the paper.

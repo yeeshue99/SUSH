@@ -1,0 +1,3 @@
+**Associated Rolls: Performance, Persuasion, Wisdom Saves**
+
+Members of this Society meet to study and perform different styles of poetry. Professor Sace sponsors the group and performs her own poetry every year or so at a special club-sponsored event that is treated as a type of fundraiser. Sace helps students in the club use the magic of language to capture specific emotions and enchant audiences. Students also hold events each trimester for student recitals which are often well-attended, especially by Silverquill students.

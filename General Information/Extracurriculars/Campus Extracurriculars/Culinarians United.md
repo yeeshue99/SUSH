@@ -1,0 +1,3 @@
+**Associated Rolls: Constitutions Saves, Perception, Survival**
+
+[[Gyome, Master Chef|Gyome]] accepts students of all skill levels into this club. The only requirement is that students must have a love of cooking. Some club sessions may involve learning new recipes or studying unusual ingredients. At least once a year Gyome holds a fundraiser feast. He splits his club in half and has each team compete for votes amongst the dinner guests. The winners gain bragging rights and perhaps a small cash reward while the losers are stuck with cleaning duties after the event.

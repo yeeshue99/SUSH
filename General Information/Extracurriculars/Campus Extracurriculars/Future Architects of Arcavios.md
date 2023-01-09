@@ -1,0 +1,3 @@
+**Associated Skills: Arcana, Insight, Perception**
+
+From the ruins of Pillardrop to the water sculptures of Quandrix to the star arches at Archway Commons the methods and techniques involved in buildings and landscape designs are as unique and varied as the colleges themselves. Students in this club discuss their favorite styles and designs and even take weekend trips with their sponsor, Professor Bildra, to look at the buildings of other areas of Arcavios.

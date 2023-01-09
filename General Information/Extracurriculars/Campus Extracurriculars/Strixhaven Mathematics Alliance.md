@@ -1,0 +1,3 @@
+**Associated Rolls: Arcana, Insight, Intelligence**
+
+Students in this club work together to solve complex math equations. Some equations may take weeks or even months to complete but that only serves to heighten the student's sense of accomplishment. [[Deekah, Fractal Theorist|Professor Deekah]] supervises this club and typically assigns a challenging equation whenever the club is ready for it. Volunteers from the club compete annually to see who can solve challenging equations the fastest and most accurately.

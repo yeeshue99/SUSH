@@ -1,0 +1,4 @@
+**Associated Skills: Animal Handling, Nature, Survival**
+Member: [[Zanther Bowen]]
+
+Students in this club work with [[Kojil The Tamer|Professor Kojil]] on learning proper care techniques and survival skills for a variety of native animals from around Arcavios. Even fearsome predators are more calmed and reserved in Kojil's presence, allowing students the chance to get a far closer look at such creatures than would otherwise be possible. Students might spend around 3 weeks with different creatures before being introduced to a new creature. For particularly dangerous beasts Kojil might take students on field trips where they observe from afar.

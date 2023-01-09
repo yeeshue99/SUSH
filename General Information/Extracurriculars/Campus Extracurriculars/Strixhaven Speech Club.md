@@ -1,0 +1,3 @@
+**Associated Skills: Charisma, Performance, Persuasion**
+
+Most students find working on speeches under [[Smart Mouth|Professor Smart Mouth]] odd. But the kenku professor's extensive knowledge of language gets the job done and he always seems to have the perfect word to recommend to students to help get their points across. Most sessions with this club are either explorations into different speech techniques or oratory practices. Students participate in a speech competition at least once a year.
