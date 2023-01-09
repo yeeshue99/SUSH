@@ -4,7 +4,7 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = ""
+LANDING_BUTTON = "Open SUSH"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Strixhaven University Student Handbook"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
@@ -32,7 +32,7 @@ SLUGIFY = ""
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
 HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
-PAGE_GRAPH = "y"
+PAGE_GRAPH = ""
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
@@ -71,6 +71,9 @@ GRAPH_OPTIONS = """
         	width: "100%",
         	physics: {
         		solver: "repulsion",
+                repulsion: {
+                    nodeDistance: 400 // Put more distance between the nodes.
+                }
         	},
         }
         """
