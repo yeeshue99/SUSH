@@ -1,6 +1,0 @@
-{
-  "findText": "",
-  "findRegexp": "\\r|\\n|(\\r\\n)",
-  "regexpFlags": "",
-  "replace": "[Hello]"
-}

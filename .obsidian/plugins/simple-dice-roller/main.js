@@ -64,7 +64,7 @@ var SimpleDiceRoller = class extends import_obsidian.Plugin {
   }
   getAllFormulas() {
     var _a;
-    let captureAllFormulas = /\d+d\d+.*?(?= |\n|$)/gi;
+    let captureAllFormulas = /\d?d\d+.*?(?= |\n|$)/gi;
     const markdownView = (_a = this.app.workspace) == null ? void 0 : _a.getActiveViewOfType(import_obsidian.MarkdownView);
     let allFormulas = markdownView == null ? void 0 : markdownView.getViewData().match(captureAllFormulas);
     if (allFormulas == null) {
@@ -101,7 +101,7 @@ var SimpleDiceRoller = class extends import_obsidian.Plugin {
     console.log("================================================================");
   }
   calculateFormula(formula) {
-    let splitAllDice = /\d+d\d+/gi;
+    let splitAllDice = /\d?d\d+/gi;
     let constAdditions = /(?<=\+)(\d+)(?=\+|$)/gi;
     let diceAmount = /\d+/gi;
     let diceSize = /(?<=d).*/gi;
@@ -109,6 +109,9 @@ var SimpleDiceRoller = class extends import_obsidian.Plugin {
     let dice = formula.match(splitAllDice);
     console.log(`Found ${dice.length} dice`);
     for (let i = 0; i < dice.length; i++) {
+      if (dice[i].charAt(0) == "d" || dice[i].charAt(0) == "D") {
+        dice[i] = "1" + dice[i];
+      }
       let amountOfDice = parseInt(dice[i].match(diceAmount)[0], 10);
       let sizeOfDice = parseInt(dice[i].match(diceSize)[0], 10);
       sum += Math.ceil(this.averageDice(amountOfDice, sizeOfDice));
@@ -145,14 +148,17 @@ var SimpleDiceRoller = class extends import_obsidian.Plugin {
     return sum;
   }
   simulateDiceFormula(formula) {
-    let splitAllDice = /\d+d\d+/gi;
+    let splitAllDice = /\d?d\d+/gi;
     let constAdditions = /(?<=\+)(\d+)(?=\+|$)/gi;
-    let diceAmount = /\d+/gi;
+    let diceAmount = /\d?/gi;
     let diceSize = /(?<=d).*/gi;
     let sum = 0;
     let dice = formula.match(splitAllDice);
     console.log(`Found ${dice.length} dice`);
     for (let i = 0; i < dice.length; i++) {
+      if (dice[i].charAt(0) == "d" || dice[i].charAt(0) == "D") {
+        dice[i] = "1" + dice[i];
+      }
       let amountOfDice = parseInt(dice[i].match(diceAmount)[0], 10);
       let sizeOfDice = parseInt(dice[i].match(diceSize)[0], 10);
       sum += this.simulateDice(amountOfDice, sizeOfDice);

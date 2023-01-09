@@ -4,5 +4,7 @@
   "readableLineLength": true,
   "attachmentFolderPath": "Attachments",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useTab": true,
+  "spellcheck": true
 }

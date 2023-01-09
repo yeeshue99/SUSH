@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
-  "search": "-path:Items",
+  "collapse-filter": false,
+  "search": "path:\"Class Roster/Class Informationals\" OR path:Players",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Strixhaven Campus/Extracurriculars/Campus Extracurriculars\"",
@@ -48,18 +48,39 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "file:SUSH",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Players",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"University Records\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.99943820224719,
   "collapse-forces": false,
-  "centerStrength": 0.495726495726496,
-  "repelStrength": 10.0854700854701,
+  "centerStrength": 0.191011235955056,
+  "repelStrength": 9.21348314606742,
   "linkStrength": 0.931623931623932,
-  "linkDistance": 30,
-  "scale": 0.5087618855792619,
+  "linkDistance": 252,
+  "scale": 0.5087618855792639,
   "close": false
 }
