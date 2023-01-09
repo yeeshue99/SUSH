@@ -1,3 +1,5 @@
+![[Prismari.png|300]]
+
 Prismari. the College of Elemental Arts, is devoted to the study and practice of art intertwined with magic. The mage-students of Prismari wield magic in spectacles of creativity: masterpieces of showy, over-the-top magic. They use elemental magic to express who they are and how they see the world, often combining different types of energy—fire, water, air, earth, lightning, heat, cold—in powerful expressions of conflict and harmony.
 
 ## Studies and Philosophy
@@ -13,7 +15,7 @@ The perspective of perfection focuses on technique, analysis, theory, aesthetics
 The perspective of expression instead emphasizes the portrayal of personal emotional truths. Its mages value improvisation, innovation, and rule-breaking, and they often favor elemental magic using fire, lightning, and earth.
 
 ### Scholars of Prismari
-The Prismari Scholars table offers examples of the scholars in Prismari College. You may use the table to randomly determine the scholarly focus of a Prismari student or faculty member. The Principle column notes which side of the perfection-expression conflict a scholar more likely aligns with.
+The Prismari Scholars table offers examples of the scholars in Prismari College. The Principle column notes which side of the perfection-expression conflict a scholar more likely aligns with.
 
 #### Prismari Scholars
 | d12 | Scholar                                                                                                                           | Principle  |
@@ -37,6 +39,8 @@ The Prismari Scholars table offers examples of the scholars in Prismari College.
 - [[Veyran, Voice of Duality]]
 - [[Zaffai, Thunder Conductor]]
 - [[Arkin Minexes, Peppy Instructor]]
+- [[Ignaria Iggy Kahafi]]
+- [[Zeph]]
 
 ## Prismari Campus
 - [[Conjurot Hall]]

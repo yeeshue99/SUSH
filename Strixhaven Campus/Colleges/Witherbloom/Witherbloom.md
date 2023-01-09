@@ -1,3 +1,5 @@
+![[Witherbloom.png|300]]
+
 At Witherbloom, the College of Essence Studies, mages draw power from the opposing forces of life and death. These mages brew their spells from natural components and the essence of living creatures, using that power to heal or harm the living or to raise or entreat the dead. They can cause entire forests to blossom out of nowhere or call down old curses that scourge flesh from bone. Some Witherbloom mages defend ecosystems from pollution. while others revel in the power of corruption. They’re at home riding zombie crocodiles down a languid river, picking herbs for a potion to treat a disease, brooding over a chorus of swamp frogs, or summoning fearsome avatars of nature.
 
 ## Studies and Philosophy
@@ -11,7 +13,7 @@ The philosophy of the root (growth) focuses on life and its irrepressible drive 
 The philosophy of the vein (decay) focuses on the inevitability of death and decay. Its traditional name comes from the prominence of vampires within the college, whose conceptions of draining life through the vein have long proven an important counterweight to the growth philosophy of Witherbloom. The decay philosophy sees life energy as a resource to be consumed, rather than a good to be nourished for its own sake. Mages who adopt this view wield negative energy and practice necromancy.
 
 ### Scholars of Witherbloom
-The Witherbloom Scholars table offers examples of the scholars in Witherbloom College. You may use the table to randomly determine the scholarly focus of a Witherbloom student or faculty member. The Principle column notes which side of the growth-decay conflict a scholar more likely aligns with.
+The Witherbloom Scholars table offers examples of the scholars in Witherbloom College. The Principle column notes which side of the growth-decay conflict a scholar more likely aligns with.
 
 #### Witherbloom Scholars
 | d8  | Scholar | Principle |

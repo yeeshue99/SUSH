@@ -1,3 +1,5 @@
+![[Silverquill.png|300]]
+
 Silverquill is the College of Eloquence, and its mages—stylish, intimidating, and driven—are masters of the magic of words. They create spells from spoken-word battle poetry or magical manifestations of the written word, scribing patterns of runic ink in the air. These mages make for natural leaders, fiercely competitive, with a piercing wit and a never-second-place attitude.
 
 ## Studies and Philosophy
@@ -11,7 +13,7 @@ The college’s perspective of radiance envisions language as sunlight emanating
 The college’s perspective of shadow focuses on the power of language to stab, to expose stinging truths, and to obfuscate secrets. The magic of shadow mages often manifests as bolts or blades of darkness or blotches of flowing ink, and its effects range from a sting of shame to an assault on the target’s life energy.
 
 ### Scholars of Silverquill
-The Silverquill Scholars table offers examples of the scholars in Silverquill College. You may use the table to randomly determine the scholarly focus of a Silverquill student or faculty member. The Principle column notes which side of the radiance-shadow conflict a scholar more likely aligns with.
+The Silverquill Scholars table offers examples of the scholars in Silverquill College. The Principle column notes which side of the radiance-shadow conflict a scholar more likely aligns with.
 
 #### Silverquill Scholars
 | d8  | Scholar                                                                 | Principle |
@@ -29,9 +31,9 @@ The Silverquill Scholars table offers examples of the scholars in Silverquill Co
 - [[Shaile Talonrook, Dean of Radiance]]
 - [[Embrose Lu, Dean of Shadow]]
 - [[Breena, the Demagogue]]
-- [[Nils, Discipline Enforcer]]
-- [[Brenneth Blackstone, Scriptology Star]]
+- [[Brenneth Blackstone]]
 - [[Fain, the Broker]]
+- [[Smart Mouth]]
 
 ## Silverquill Campus
 - [[Grandloft Hall]]

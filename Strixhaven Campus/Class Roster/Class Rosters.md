@@ -1,4 +1,0 @@
-- [[First Year Classes]]
-- [[Second Year Classes]]
-- [[Third Year Classes]]
-- [[Fourth Year Classes]]

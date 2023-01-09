@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "0145395aabb352a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb79ecd8cfbde286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b18ce5ec6db627c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85937d003be6169b",
+    "type": "split",
+    "children": [
+      {
+        "id": "20e1ef350a24c51f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ba03056abbc3718",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "699bb6ebe7ce71c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "giant mountain",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349
+  },
+  "right": {
+    "id": "c814a5a6f1a3f542",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c288f5f8cf21fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "506c7aef43efaaf2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "71f68a01c60f6d97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "simple-dice-roller:Simulate all dice": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "8b18ce5ec6db627c",
+  "lastOpenFiles": [
+    "University Records/08. Festival.md",
+    "University Records/01. Orientation.md",
+    "University Records/07. Sedgemoor.md",
+    "University Records/06. Missing.md",
+    "University Records/05. Reunion.md",
+    "Strixhaven Campus/Colleges/Witherbloom/Locations/Sedgemoor.md",
+    "SUSH.md",
+    "V.md",
+    "University Records/04. Strixhaven Ball.md",
+    "University Records/02. Frog Racing.md"
+  ]
+}

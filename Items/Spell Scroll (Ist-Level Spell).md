@@ -1,4 +1,4 @@
-| 1d10  | Item                                                              |
+| d10  | Item                                                              |
 | --- | ----------------------------------------------------------------- |
 | 1   | [Detect Magic](https://5e.tools/spells.html#detect%20magic_phb)   |
 | 2   | [Bane](https://5e.tools/spells.html#bane_phb)                     |

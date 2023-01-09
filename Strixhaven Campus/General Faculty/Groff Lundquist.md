@@ -1,0 +1,1 @@
+*This page of your* ***S.U.S.H.*** *seems to be hidden behind some sort of magic. Perhaps the page will become deciphered later in your studies?*

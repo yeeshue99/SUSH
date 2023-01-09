@@ -1,3 +1,5 @@
+![[Quandrix.png|300]]
+
 Quandrix is the College of Numeromancy—a term that encompasses the study of patterns, fractals, and symmetries to wield power over the fundamental mathematics of nature. Quandrix mages can summon creatures made of fractals or turn abstract theories into towering, spiraling patterns.They love to expand and multiply; they can increase their knowledge or size by bending numbers. They dwell in the overlap between the theoretical and the natural—from the fabric of their robes to the nature of their spells, they make use of repeated elements, clever symmetries, and surprising geometry to express the complex truths they study.
 
 ## Studies and Philosophy
@@ -11,7 +13,7 @@ The perspective of substance emphasizes physical reality. In this view, math is 
 The perspective of theory focuses on the abstract realms of conjecture and possibility. Its scholars view math as a lens through which a mind can understand the cosmos, not something that exists independently in the world. Mages who embrace this perspective use their spells to weave illusions and manipulate the fabric of magic itself.
 
 ### Scholars of Quandrix
-The Quandrix Scholars table offers examples of the scholars in Quandrix College. You may use thetable to randomly determine the scholarly focus of aQuandrix student or faculty member. The Principle column notes which side of the substance-theory conflict a scholar more likely aligns with.
+The Quandrix Scholars table offers examples of the scholars in Quandrix College. The Principle column notes which side of the substance-theory conflict a scholar more likely aligns with.
 
 #### Quandrix Scholars
 | d8  | Scholar                                                             | Principle |
