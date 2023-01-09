@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fb79ecd8cfbde286",
+        "id": "6e6420684e0b5a4c",
         "type": "tabs",
         "children": [
           {
-            "id": "8b18ce5ec6db627c",
+            "id": "856f6b7a9ebae891",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "General Information/TA.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "giant mountain",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General Information/TA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +115,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "8b18ce5ec6db627c",
+  "active": "856f6b7a9ebae891",
   "lastOpenFiles": [
+    "University Records/03. First Exams.md",
+    "General Information/TA.md",
+    "General Information/Relationship Rules.md",
+    "General Information/Exams.md",
+    "General Information/Extracurriculars/Jobs.md",
+    "General Information/Extracurriculars/Extracurriculars.md",
+    "SUSH.md",
     "University Records/08. Festival.md",
     "University Records/01. Orientation.md",
-    "University Records/07. Sedgemoor.md",
-    "University Records/06. Missing.md",
-    "University Records/05. Reunion.md",
-    "Strixhaven Campus/Colleges/Witherbloom/Locations/Sedgemoor.md",
-    "SUSH.md",
-    "V.md",
-    "University Records/04. Strixhaven Ball.md",
-    "University Records/02. Frog Racing.md"
+    "University Records/07. Sedgemoor.md"
   ]
 }
