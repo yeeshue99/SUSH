@@ -1,1 +1,34 @@
-*This page of your* ***S.U.S.H.*** *seems to be hidden behind some sort of magic. Perhaps the page will become deciphered later in your studies?*
+Spells available to first year students:
+- Agnazzar's Scorcher
+- Animate Dead
+- Aura of Vitality
+- Calm Emotions
+- Conjure Animals
+- Counterspell
+- Daylight
+- Dispel Magic
+- Find Steed
+- Fireball
+- Fly
+- Galder's Tower
+- Glyph of Warding
+- Immovable Object
+- Lesser Restoration
+- Magic Circle
+- Mirror Image
+- Motivational Speech
+- Plant Growth
+- Rime's Binding Ice
+- Shatter
+- Silence
+- Speak with Dead
+- Speak with Plants
+- Spirit Guardians
+- Spirit Shroud
+- Summon Shadowspawn
+- Thunder Step
+- Tidal Wave
+- Tiny Hut
+- Tongues
+- Vampiric Touch
+- Wither and Bloom
