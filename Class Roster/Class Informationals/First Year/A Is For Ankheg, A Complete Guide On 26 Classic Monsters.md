@@ -1,3 +1,0 @@
-Associated Skills: Animal Handling, Nature, Survival
-
-The course covers the anatomy, abilities, and dispositions of monsters commonly encountered while adventuring. Students read popular accounts related to Aberrations, Monstrosities, and Oozes, as well as studying how best to either avoid a fight with such creatures or battle them and emerge triumphant. The class’s professor is [[Verelda Lang, Arcano-Biologist|Verelda Lang]] a dryad who only teaches General Studies courses about magical flora and fauna.

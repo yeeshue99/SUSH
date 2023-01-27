@@ -1,3 +1,0 @@
-**Associated Skills: History, Insight, Investigation**
-
-In a place where magic is present in everyday life very few are interested in the technology of the past. For those who are, the C.E.C. is the place to be. Students either meet with [[Losheel, Clockwork Scholar|Losheel]] or, more often than not, with one of her automatons to learn how such creations function. During the second and third trimesters students might start working on their own automatons which they then present to their fellows at the end of the third trimester.

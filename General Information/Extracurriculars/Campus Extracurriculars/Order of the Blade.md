@@ -1,3 +1,0 @@
-**Associated Skills: Athletics, Dexterity Saves, Melee Attacks (Dexterity or Strength Based)**
-
-While all students who attend Strixhaven have at least a basic level of magical ability some students are better suited towards fighting with weapons. Students in this club hone their skills with martial weapons by going through forms or sparring with different partners. Tervis, the club's sponsor, holds informal tournaments at least once a year to determine the most capable fighter in the Order.

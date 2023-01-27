@@ -1,3 +1,0 @@
-**Associated Skills: Intimidation, Performance, Persuasion**
-
-Students in this club help plan various special events for their peers under the supervision of Zoei. Events are up to DM discretion but might include balls, campus-wide dance parties, talent shows, etc. Club meetings involve planning for the next big event, firmly persuading different groups to provide support (for example, having the Strixhaven Show Band play at a ball), and convincing people to attend events.

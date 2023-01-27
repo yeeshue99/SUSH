@@ -1,3 +1,0 @@
-**Associated Skills: Arcana, History, Insight**
-
-The eager students who attend this club tend to gather in [[Osgir, the Reconstructor|Osgir's]] workshop. As the sponsor and as a fellow artifact enthusiast himself, Osgir shows students different pieces from his collection as he teaches them about the history and magical properties of each one. Osgir tends to save his duplication efforts of newly discovered artifacts, which come up maybe 2-3 times each year, for when his club meets so they can all learn about the new discoveries together.

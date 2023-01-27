@@ -1,3 +1,0 @@
-**Associated Skills: Nature, Perception, Survival**
-
-Members of this club consider themselves to be novice adventurers. They study a number of classic monsters and train themselves to perceive and identify different traps, secret passages, etc. Either once per trimester or once per year the league's sponsor, [[Verelda Lang, Arcano-Biologist|Professor Lang]], takes students on a field trip to a local dungeon or tomb to let them try what they've learned. Trips may take place on different weekends with first-years all going together on the first trip, second-years on the second trip, and so on.

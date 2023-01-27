@@ -1,3 +1,0 @@
-**Associated Rolls: Animal Handling, Arcana, Constitution Saves**
-
-Club members in the Cute Conjurations Group are typically just looking for a place to relax and hangout. [[Veyran, Voice of Duality|Veyran]] starts each session off by summoning a number of small, cute elementals with which students then get to play. This club has no special weekend activities and is open to anyone at any time whenever someone just wants to feel warm licks from a fun fire-shaped dog or other such cute creature.

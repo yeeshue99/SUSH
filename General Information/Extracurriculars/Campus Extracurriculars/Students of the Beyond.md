@@ -1,3 +1,0 @@
-**Associated Rolls: Deception, Religion, Wisdom Saves**
-
-On the surface this group of students appears to be part of an astrology club. However, students of this club actually spend their time researching other planes and attempting to make contact with inhabitants from those planes. Under the watchful eye of [[Brenneth Blackstone|Professor Brenneth]] students perform seances, research mystical portals, and reach for divine powers. The group doesn't have any public events throughout the year but might meet on weekends in secret if Brenneth feels himself being approached by an entity from the other side so students can witness his contact or possession.

@@ -1,3 +1,0 @@
-**Associated Rolls: Athletics, Constitution Saves, Medicine**
-
-Professor Jazack knows that having magical tricks to help one escape a dangerous situation is all well and good but it's important not to forget the fundamentals of having a good pair of running legs. In this club students go running along different courses they've created around the Strixhaven campus and have annual competitions to determine the fastest runner for different categories.

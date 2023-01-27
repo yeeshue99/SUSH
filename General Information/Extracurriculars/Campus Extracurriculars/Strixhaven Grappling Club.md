@@ -1,3 +1,0 @@
-**Associated Skills: Acrobatics, Athletics, Insight**
-
-Students in this club hone their skills in grappling under the tutelage of the ursine [[Ruxa, Patient Professor]]. Clubs are usually either instructor-led demonstrations or practice time with an opponent. Club members compete at least once a year to see who is the best grappler and who is the best escape artist. Magic is forbidden in these contests and students learn to rely on their raw skills and their ability to read their opponent instead.

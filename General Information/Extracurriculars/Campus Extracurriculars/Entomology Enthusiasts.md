@@ -1,3 +1,0 @@
-**Associated Skills: Animal Handling, Insight, Nature**
-
-Clem's fascination with small creatures led her to create this club. While Kojil's zoology club focuses primarily on mammals, Clem's group focuses primarily on insects. Students might observe different insect behaviors during club time and Clem will often enlarge various specimens to allow students to more closely examine different physiologies. This club has no special weekend events.

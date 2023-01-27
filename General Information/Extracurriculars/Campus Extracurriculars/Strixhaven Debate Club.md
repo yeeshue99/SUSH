@@ -1,3 +1,0 @@
-**Associated Skills: Intimidation, Performance, Persuasion**
-
-Professor Luc Brandford knows that sometimes the best way of protecting oneself is not with magic but rather with words. In this club, Luc works with students to learn the finer points of debating. Students are assigned to different issues and positions at the beginning of a trimester and work on research and tactics during club sessions. At the end of the trimester Luc holds formal, structured debates which are attended by both club members and any interested individuals from the general public.

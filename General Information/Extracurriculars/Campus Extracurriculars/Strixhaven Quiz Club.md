@@ -1,3 +1,0 @@
-**Associated Rolls: Arcana, History, Insight**
-
-[[Orvlo, General Studies Professor|Professor Orvlo]] leads this club which reviews and studies different pieces of trivia about the history of Strixhaven, uncommon facts about the school, and about the eight schools of magic. Orvlo splits the club in half at least once a year for a quiz bowl competition. Individual quiz competitions may also take place during the different trimesters.

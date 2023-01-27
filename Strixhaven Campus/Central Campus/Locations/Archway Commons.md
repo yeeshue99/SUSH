@@ -1,3 +1,0 @@
-Just south of the Biblioplex, a star arch curves overhead like a smaller echo of the Dawnbow, and a lush park, Archway Commons, marks the site. More familiarly called the Commons, the park is a favorite spot for students—especially first-years—to gather in fair weather or to wander through on dates. Some of the university’s clubs also use the park to host social gatherings and games, including live-action roleplaying games and casual sports.
-
-#location 

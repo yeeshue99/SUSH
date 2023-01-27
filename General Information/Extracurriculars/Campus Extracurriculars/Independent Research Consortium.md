@@ -1,3 +1,0 @@
-**Associated Rolls: Arcana, Deception, Spell Modifier**
-
-[[Venoc Plaguescale|Venoc]] only hates one thing more than being forced to have a silly club to manage and that's having people interfere or pry into his research. So, to get back at the Strixhaven Administration he created a club that focuses on independent and private research. Students in this club typically work on their own unless they and another club member have mutually agreed to meet to discuss experiment results. As weekends are valuable times for lengthy lab sessions this club does not have trivial weekend events.
