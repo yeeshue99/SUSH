@@ -1,4 +1,4 @@
-Spells available to first year students:
+Spells available to second year students:
 - Agnazzar's Scorcher
 - Animate Dead
 - Aura of Vitality
