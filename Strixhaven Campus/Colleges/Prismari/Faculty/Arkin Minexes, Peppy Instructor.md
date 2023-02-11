@@ -3,5 +3,7 @@ Arkin (lawful good human Prismari professor of expression) is a newly hired inst
 Arkin loves the sport of Mage Tower and loves the school spirit behind mascots. He teaches a course on summoning mascots for students who want a little friend following them around. As the book described, Arkin focuses a lot on cooperation and so the homework for both of his classes is typically either partner or group-themed.
 
 #prismari
+
 #faculty
+
 #expression

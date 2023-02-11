@@ -7,22 +7,29 @@ You are one of the fortunate few who have been accepted into this prestigious un
 your **S.U.S.H.** serves as a one-stop-shop for all information you may need regarding your time here at Strixhaven University. Make sure you keep your **S.U.S.H.** safe! You never want to need it and not be able to find it!
 
 ##### University Records
+
 Want a refresher on your time here at Strixhaven? Turn to [[_Sessions|pg. 200]] for more.
 
 ##### List of Colleges
+
 Want to learn more about the colleges you can choose in your second year? Turn to [[College List|pg. 35]].
 
 ##### Class Roster
+
 Curious as to the classes you can take? Turn to [[Class Rosters|pg. 56]].
 
 ##### Student Roster
+
 Who are your fellow incoming classmates? Turn to [[_All Students_|pg. 166]] to find out!
 
 ##### Extracurriculars and Jobs
+
 Interested in seeing how you can get involved on campus? [[Extracurriculars|Pg. 80]], and  [[Jobs|pg. 90]] will have all the information you'll need on extracurricular activities, and on-campus jobs, respectively.
 
 ##### Exam Season
+
 Scared about how exam season will look like? [[Exams|Pg. 20]] will soothe all your worries!
 
 ##### Campus Info
+
 Want to know more about the campus? [[Strixhaven Campus|Pg. 8]] is a great place to start!

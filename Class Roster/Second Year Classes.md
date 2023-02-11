@@ -1,34 +1,67 @@
 Spells available to second year students:
+
 - Agnazzar's Scorcher
+
 - Animate Dead
+
 - Aura of Vitality
+
 - Calm Emotions
+
 - Conjure Animals
+
 - Counterspell
+
 - Daylight
+
 - Dispel Magic
+
 - Find Steed
+
 - Fireball
+
 - Fly
+
 - Galder's Tower
+
 - Glyph of Warding
+
 - Immovable Object
+
 - Lesser Restoration
+
 - Magic Circle
+
 - Mirror Image
+
 - Motivational Speech
+
 - Plant Growth
+
 - Rime's Binding Ice
+
 - Shatter
+
 - Silence
+
 - Speak with Dead
+
 - Speak with Plants
+
 - Spirit Guardians
+
 - Spirit Shroud
+
 - Summon Shadowspawn
+
 - Thunder Step
+
 - Tidal Wave
+
 - Tiny Hut
+
 - Tongues
+
 - Vampiric Touch
+
 - Wither and Bloom

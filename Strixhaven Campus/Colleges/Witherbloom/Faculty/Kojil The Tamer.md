@@ -1,5 +1,4 @@
 ![[2a3a12d8b1d7bd43fe56cbb5ea97058d.jpg|300]]
-
 Even as a young firbolg Kojil always had a way with animals. At only seven years old he helped calm a mad squirrel, foaming at the mouth, for long enough to find the wound that had caused the disease. Unable to heal the creature, the village elder helped the squirrel pass on. However, instead of passing on, the spirit of the squirrel remained and quickly climbed up to Kojil's shoulder.
 
 In the years to follow Kojil either tamed or was approached by all manner of dangerous or rare creatures such as Karoks and Cervins and was visited at times by the spirits of other creatures as well. The village elder wrote to Strixhaven about these feats, hoping for an explanation and receiving only an admission letter for young Kojil in return. 

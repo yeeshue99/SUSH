@@ -3,5 +3,7 @@ Marrick is a dashingly handsome male halfling and Lorehold professor of chaos. H
 Marrick and the other Lorehold staff agree that artifacts should be owned and maintained by the community at large. That said, Marrick personally believes that dangerous artifacts, especially ones that might hurt students or staff, should be moved into more private collections...for the right price. Marrick might readily accompany students who wish to go ruin-diving for artifacts, but he gets selfish about splitting up the finds. His selfishness only extends to profit though as he readily puts himself into danger to help students out of tough situations.
 
 #lorehold
+
 #faculty
+
 #chaos

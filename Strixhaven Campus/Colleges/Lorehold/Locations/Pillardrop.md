@@ -1,4 +1,5 @@
 Part natural chasm, part archaeological excavation, and part new construction, Pillardrop is a series of buildings excavated out of cliffs on the Lorehold campus. Ruins and upgraded halls together are now used for research, classwork, and housing. Precarious bridges link one neighborhood of Pillardrop to another, often directly passing the enormous stone faces of old statues. Every Lorehold class has a story of some careless student making a misstep on one of these bridges or in some particularly crumbling section of the ruins, sometimes with disastrous consequences—and sometimes finding deliverance when a spirit statue appears from nowhere to catch the hapless student before they suffer serious harm.
 
 #lorehold 
+
 #location

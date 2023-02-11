@@ -3,5 +3,7 @@ Xyla is a relatively young, female gnome. She’s a prominent dustspeaker and on
 Xyla particularly enjoys researching new and obscure languages and can become overly excited when she meets a student who knows an uncommon or rare language. Like many gnomes, Xyla has an abundant love of life but much of her time is spent listening to ancient spirits bound to statues on Effigy Row. Xyla teaches several courses on language and composition of magical tomes, grimoires, and scrolls.
 
 #lorehold
+
 #faculty
+
 #order 

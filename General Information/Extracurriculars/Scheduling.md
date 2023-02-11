@@ -1,4 +1,5 @@
 ### Schedules and You
+
 Over the course of your time here at Strixhaven University, time management will be an important skill. Each week is divided up into a 7-day cycle, where the first 5 days are considered weekdays, and the last 2 are considered weekends.
 
 In order to efficiently manage your time, characters are allowed to choose what to do with their time. Events, such as working a job, participating in a club, spending time with another student, etc. will all take up a single "time-slot". Studying takes up two "time-slots".

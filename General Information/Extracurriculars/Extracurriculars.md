@@ -2,22 +2,17 @@
 
 ## Joining an Extracurricular
 
-
 ## Extracurricular Benefits
-
 
 ### Student Dice
 
-
 ### Relationship Point
-
 
 ## Quitting an Extracurricular
 
-
 ## Extracurricular Options
-![[Clubs Chart.pdf]]
 
+![[Clubs Chart.pdf]]
 | Club                                 | Club                                            | Club                                   | Club                                       |
 | ------------------------------------ | ----------------------------------------------- | -------------------------------------- | ------------------------------------------ |
 | [[Adventurer's League]]              | [[Ancient Artifact Enthusiasts]]                | [[Arcavios Historical Society]]        | [[Arcavios Zoology Club]]                  |

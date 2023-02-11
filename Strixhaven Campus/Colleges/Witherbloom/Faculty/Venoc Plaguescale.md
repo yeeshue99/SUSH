@@ -3,5 +3,7 @@ As a green dragonborn who has always been afflicted with various illnesses, Veno
 As a Witherbloom professor of decay Venoc is barely interested in his students or their studies unless they're a prodigy. Venoc is really only at Strixhaven for the access to research and materials. He absolutely hates Asana, whom he considers to be a rival who is always getting in his way by coming up with cures for his diseases. The two professors tend to draw their students into their rivalry as well. Venoc pays students for any dangerous spell components they find and encourages them to bring back information about Asana's cures and other research.
 
 #witherbloom
+
 #faculty
+
 #decay 

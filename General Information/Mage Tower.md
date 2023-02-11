@@ -1,6 +1,9 @@
 Mage Tower is a fast-paced Capture the Flag style game, pitting two opposing teams of mages against each other in a battle of wits and magical prowess.
+
 Both teams will be placed on opposite sides of an arena, where these opposite sides host a monument of some sort. Atop the monument shall lie a trophy to be captured. In order to achieve victory, the opposing team's trophy needs to be placed on the monument at the same time your trophy is atop yours. Alternately, if the opposing team is made to be unable to continue, you also win by default. If no team is declared the victor after 10 minutes, the match is declared a draw.
+
 At the beginning of the match, every member of each team must be touching the monument. After beginning, anything goes, and victory may be achieved by any means necessary. Throughout the battlefield lay targets that may be captured. Upon capturing one, a random bonus is applied out of the below list. In the middle lay a similar target, however upon capture, this target will allow the capturer to choose the boon to be applied.
+
 In order to be invited the the semi-final matches, a participating group must successfully win 3 sanctioned and observed Mage Tower matches. The semi-finals will be a best of 3, and the finals will be a best of 5
 
 | Name         | Effect                                                                                                                                                                                                                    |
