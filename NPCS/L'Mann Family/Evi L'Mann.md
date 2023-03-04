@@ -1,0 +1,1 @@
+Evi L'Mann -> Evil Man (Foreshadowing)
