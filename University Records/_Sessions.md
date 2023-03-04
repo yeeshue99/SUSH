@@ -9,3 +9,5 @@
 - [[09. Summer Break I]]
 - [[10. Interrogation]]
 - [[11. Return to Campus]]
+- [[12. First Mage Tower Match]]
+- [[13. Venture to Rosewood]]
